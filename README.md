@@ -1,7 +1,5 @@
 ### Land Use and Land Cover Analysis Using Hyperspectral Remote Sensing Data and AutoEncoders
 
-In this data science project, an AutoEncoder-based deep learning framework was developed for the classification of land use and land cover using hyperspectral remote sensing data. Initial steps included extensive data preprocessing and visualization of spectral bands to assess data quality. The core of the project involved constructing a robust AutoEncoder architecture to compress the high-dimensional data into a latent space, which significantly enhanced the classification performance when used with KNN, SVM, and LightGBM classifiers. The project not only achieved an impressive classification accuracy but also highlighted the potential of AutoEncoders in managing and interpreting complex geospatial datasets effectively.
-
 #### Introduction
 This Jupyter notebook project is centered around an innovative approach to land use and land cover (LULC) classification using hyperspectral remote sensing data. The project leverages deep learning, specifically AutoEncoders, to enhance the interpretation and classification of complex datasets that contain hundreds of spectral bands.
 
