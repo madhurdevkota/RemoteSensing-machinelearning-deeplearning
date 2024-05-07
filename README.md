@@ -36,7 +36,7 @@ This Jupyter notebook project is centered around an innovative approach to land 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Detailed Summary of the Jupyter Notebook: Deep Learning for Land Use and Land Cover Classification Using Satellite Data
+### Deep Learning for Land Use and Land Cover Classification Using Satellite Data
 
 #### 1. Introduction and Project Overview
 The project focuses on applying deep learning techniques to classify land use and land cover based on remote sensing satellite data. It utilizes a Convolutional Neural Network (CNN) to analyze spatial patterns captured in multiple spectral bands from Sentinel-2 satellite images. The objective is to differentiate between various classes such as water, plants, trees, and bare land, which are critical for environmental and urban planning.
